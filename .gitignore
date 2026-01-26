@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.parquet
+
+# Secrets
+*.env
+*.key
+secret.key
+
+# VS Code
+.vscode/
